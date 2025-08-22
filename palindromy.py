@@ -1,3 +1,5 @@
+#program sprawdza czy podane slowo jest palindromem
+
 def palindormy(word:str):
     reverse_word = word[::-1]
     if word == reverse_word:
@@ -6,3 +8,4 @@ def palindormy(word:str):
         return False
     
 print(palindormy('kajak'))
+print(palindormy('ocean'))
