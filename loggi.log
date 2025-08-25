@@ -10,3 +10,9 @@ roznica wynosi = 15
 roznica wynosi = 5
 2025-08-25 13:34:55,595 wartosci podane dla dzialania MNOŻENIA to [3, 3]
 wynik wynosi = 9
+2025-08-25 13:38:21,450 wartosci podane dla dzialania DODAWANIE to [2.5, 2.5]
+roznica wynosi = 5.0
+2025-08-25 13:39:58,755 wartosci podane dla dzialania DODAWANIE to [4.6]
+roznica wynosi = 4.6
+2025-08-25 13:40:17,233 wartosci podane dla dzialania DODAWANIE to [4.5, 5.5]
+roznica wynosi = 10.0
