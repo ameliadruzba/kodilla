@@ -1,0 +1,12 @@
+2025-08-25 13:14:33,806 wartosci podane to <generator object odejmowanie.<locals>.<genexpr> at 0x103164400>
+2025-08-25 13:15:05,703 wartosci podane to [5, 2]
+2025-08-25 13:15:57,759 wartosci podane to [5, 2]
+roznica wynosi =3
+2025-08-25 13:28:47,813 wartosci podane dla dzialania DODAWANIE to [2, 4]
+roznica wynosi = 6
+2025-08-25 13:29:36,473 wartosci podane dla dzialania DODAWANIE to [3, 7, 5]
+roznica wynosi = 15
+2025-08-25 13:31:41,120 wartosci podane dla dzialania ODEJMOWANIE to [10, 5]
+roznica wynosi = 5
+2025-08-25 13:34:55,595 wartosci podane dla dzialania MNOŻENIA to [3, 3]
+wynik wynosi = 9
